@@ -8,10 +8,11 @@ Next, we shall test the model on 260 emails. We shall ask model to predict the c
 of this emails and compare the accuracy with correct classification that we already know.
 
 ## Instructions:
-1. Open ipynb file
-2. Click "Open in Colab" button or click the Colab link
-3. Upload the dataset file
-4. Run code by lines or select runtime in the menu bar - click run all in the dropdown list
+1. Download Data Zip file to local computer
+2. Open ipynb file
+3. Click "Open in Colab" button or click the Colab link
+4. Unzip and Upload Data file to goolge drive under correct folder.
+5. Run code by lines or select runtime in the menu bar - click run all in the dropdown list
 
 ## Usage
 Basically, sklearn Naive Bayes provides three alternatives for model training:
